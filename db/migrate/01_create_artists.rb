@@ -3,5 +3,6 @@ class CreateArtists<ActiveRecord::Migration
     end
 
     def down
-        
+
     end
+end
