@@ -1,8 +1,8 @@
 class CreateArtists<ActiveRecord::Migration
-    def up
+    def up #do
     end
 
-    def down
+    def down #undo
 
     end
 end
