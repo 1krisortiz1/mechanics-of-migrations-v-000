@@ -5,4 +5,8 @@ class CreateArtists<ActiveRecord::Migration
     def down #undo
 
     end
+
+    def change
+        
+    end
 end
